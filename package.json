@@ -1,0 +1,27 @@
+{
+  "name": "passport-mailru-email",
+  "version": "1.1.0",
+  "description": "Mail.ru authentication strategy from E-mail for Passport.",
+  "author": "Adam Tutaev",
+  "keywords": [
+    "passport",
+    "mail",
+    "mailru",
+    "mail-ru",
+    "passport mailru",
+    "passport mailru20",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/welcomeadam/passport-mailru-email.git"
+  },
+  "license": "MIT",
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  }
+}
